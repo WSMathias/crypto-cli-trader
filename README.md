@@ -1,5 +1,5 @@
 ## cli-crypto-trader
 
 Simple command line interfcae for crypto exchange.
-suported exchanges:
+#### suported exchanges:  
 * bittrex.com
